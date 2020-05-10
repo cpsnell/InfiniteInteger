@@ -6,7 +6,7 @@
 *          and this does not need to be so...
 * May 2020:
 * The following implementation supports addition for an infinite integer
-* Even with this implementation certain things can be done.
+* Even with this implementation certain items of interest can be done.
 *************************************************************************/
 #include <iostream>
 #include <cmath>
