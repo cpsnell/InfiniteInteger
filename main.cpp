@@ -7,6 +7,8 @@
 * May 2020:
 * The following implementation supports addition for an infinite integer
 * Even with this implementation certain items of interest can be done.
+* WARNING:
+* (ONLY ADDITION OF POSITIVE NUMBERS CURRENTLY)
 *************************************************************************/
 #include <iostream>
 #include <cmath>
